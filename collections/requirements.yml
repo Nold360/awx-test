@@ -1,0 +1,7 @@
+collections:
+- name: https://github.com/ansible-collections/community.general.git
+  type: git
+  version: 3.1.0
+- name: https://github.com/ansible/awx.git#awx_collection
+  type: git
+  version: 19.1.0
